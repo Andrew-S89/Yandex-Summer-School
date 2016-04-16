@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YandexTestApp</string>
+
+    <string name="downloading">Загрузка данных....</string>
+    <string name="downloadingDone">Данные загружены</string>
+    <string name="url">http://cache-krasmts06.cdn.yandex.net/download.cdn.yandex.net/mobilization-2016/artists.json</string>
+</resources>
